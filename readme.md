@@ -1,3 +1,2 @@
-#By Eliot VISEUX et Ju-Chan HWANG.
+# By Eliot Viseux , JU-Chan Hwang , Thomas Vanderplancke
 
-Après avoir réaliser le git pull, se placer dans le dossier Pfc et lire le fichier README.md.
